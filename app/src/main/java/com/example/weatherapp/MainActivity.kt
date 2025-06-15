@@ -35,8 +35,6 @@ import java.text.SimpleDateFormat
 import java.util.Date
 import java.util.Locale
 
-//bf3ebae9d506429db3a51d739d2919e5 API Key
-
 class MainActivity : AppCompatActivity() {
     private val CAMERA_REQUEST_CODE = 100
     private val CAMERA_CAPTURE_CODE = 101
